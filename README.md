@@ -11,4 +11,4 @@ Benjamin Efrati
 
 Enter Stoned 0.1 through the lobby [Stoned 0.1.2 : Lobby](https://hubs.mozilla.com/czEULZE/1-stoned-lobby).
 
-![Enter Stoned 0.1 through the lobby](https://hubs.mozilla.com/czEULZE/1-stoned-lobby)
+![Enter Stoned 0.1 through the lobby](https://github.com/gnozo/Stoned/blob/main/stoned_lobby.png?raw=true)
