@@ -8,3 +8,7 @@ Julie Goergen
 Zsuzsana Kreif
 Benjamin Efrati
 … (full list will be revealed at the opening) -
+
+Enter Stoned 0.1 through the lobby [Stoned 0.1.2 : Lobby](https://hubs.mozilla.com/czEULZE/1-stoned-lobby).
+
+![Enter Stoned 0.1 through the lobby](https://hubs.mozilla.com/czEULZE/1-stoned-lobby)
