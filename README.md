@@ -1,3 +1,4 @@
-# stoned
-Stoned is a WIP collective artwork curated by Metalepic &amp; the Miracle Collective
+# Stone(d)
+This is the website for Stone(d), an exhibition series by Metaleptic & Miracle
+
 
