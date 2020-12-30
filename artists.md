@@ -4,40 +4,41 @@ layout: default
 
 # Exhibiting artists:
 
-Mario AMEHOU
+[Mario AMEHOU](http://feldspathmetatransfer.blogspot.com/ ) (Canada)
 
-Joan AYRTON
 
-Benjamin EFRATI
+[Joan AYRTON](https://www.r22.fr/auteurices/joan-ayrton) (France)
 
-GNoZo
+[Benjamin EFRATI](https://www.benjaminefrati.com) (France)
 
-Julie GOERGEN
+[GNoZo](http://gnozo.me/) (Niue)
 
-Wassim HALAL
+[Julie GOERGEN](https://vimeo.com/user18571950) (Belgium)
 
-Shu ISAKA
+[Wassim HALAL](https://wassimhalal.com/) (France)
 
-Carin KLONOWSKI
+[Shu ISAKA](https://shuisaka.site) (Japan)
 
-Zsuzsana KREIF
+[Carin KLONOWSKI](http://carineklonowski.net) (France)
 
-Walter LANGELAAR
+[Zsuzsana KREIF](https://www.behance.net/krzsanna) (Hungary)
 
-Katalin LOVRITY
+Walter LANGELAAR (Netherlands/New Zealand)
 
-Taichi MORIYAMA
+[Katalin LOVRITY](https://www.instagram.com/lovrityka/) (Hungary)
 
-Fuyumi MURATA
+[Taichi MORIYAMA](https://twitter.com/moriyamataichi) (Japan)
 
-Nao NISHIHARA
+[Fuyumi MURATA](https://fuyumimurata.com/Works) (Japan)
 
-Thomas PERINO
+[Nao NISHIHARA](http://nishiharanao.blogspot.com/) (Japan)
 
-Aoi TAGAMI
+[Thomas PERINO](https://www.thomasperino.fr/) (France)
 
-Philipp TEISTER
+[Aoi TAGAMI](https://www.ftarri.com/) (France)
 
-Balazs TURAI
+Philipp TEISTER (Austria/New Zealand)
 
-Yann VAN DER CRUYSSEN
+[Balazs TURAI](http://behance.com/balturai) (Hungary)
+
+[Yann VAN DER CRUYSSEN](nurykabe.com) (France)
