@@ -13,5 +13,5 @@ layout: default
 
 Mario AMEHOU, Joan AYRTON, Benjamin EFRATI, GNoZo, Julie GOERGEN, Wassim HALAL, Shu ISAKA, Carin KLONOWSKI, Zsuzsana KREIF, Walter LANGELAAR, Katalin LOVRITY, Taichi MORIYAMA, Fuyumi MURATA, Nao NISHIHARA, Thomas PERINO, Aoi TAGAMI, Philipp TEISTER, Balazs TURAI, Yann VAN DER CRUYSSEN
 
-![Stoned 0.1](https://github.com/gnozo/Stoned/blob/run/assets/img/stoned-logo.gif?raw=true)
-![Stoned 0.1](https://github.com/gnozo/Stoned/blob/run/assets/img/stoned-isaka2.pngf?raw=true)
+![Stoned 0.1](https://github.com/gnozo/Stoned/blob/run/assets/img/stoned_1.png?raw=true)
+
