@@ -16,11 +16,7 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %} ![logo](assets/img/logo.png) {% endif %}
-
-        <img class="fit-picture"
-     src="/media/cc0-images/grapefruit-slice-332-332.jpg"
-     alt="Grapefruit slice atop a pile of other slices">
+        {% if site.logo %} Logo {% endif %}
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
