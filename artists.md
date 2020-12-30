@@ -8,7 +8,9 @@ Mario AMEHOU
 
 Joan AYRTON
 
-Benjamin EFRATI/GNoZo
+Benjamin EFRATI
+
+GNoZo
 
 Julie GOERGEN
 
