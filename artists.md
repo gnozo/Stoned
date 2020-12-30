@@ -1,0 +1,20 @@
+# Exhibiting artists:
+
+Mario AMEHOU
+Joan AYRTON
+Benjamin EFRATI/GNoZo
+Julie GOERGEN
+Wassim HALAL
+Shu ISAKA
+Carin KLONOWSKI
+Zsuzsana KREIF
+Walter LANGELAAR
+Katalin LOVRITY
+Taichi MORIYAMA
+Fuyumi MURATA
+Nao NISHIHARA
+Thomas PERINO
+Aoi TAGAMI
+Philipp TEISTER
+Balazs TURAI
+Yann VAN DER CRUYSSEN
