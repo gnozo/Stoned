@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Exhibiting artists:
 
 Mario AMEHOU
