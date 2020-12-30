@@ -1,0 +1,23 @@
+---
+layout: default
+---
+# Stoned 0.1
+
+## Short presentation:
+Stoned 0.1  is a pop-up online exhibition curated by Metaleptic and the Miracle Collective. It will be available from December 31st, making it the last exhibition of 2020. It will take place on Mozilla Hubs, a web-based platform enabling users to create 3D spaces and embed/combine/associate photographs, sound files, videos, and 3D objects. Since Hubs enables multi-user interaction, performances will be organized inside the exhibition. 
+
+The exhibition is made of of several rooms (”hubs”) containing combinations of individual artworks. All the rooms in the exhibition are interconnected as indicated on the map.
+
+# 6 meetings announced so far 31/12-01/01
+
+##### Surprises, performances, meetings.
+
+20h Japan /12h Europe/6h Canada
+00h Japan/16h Europe/10h Canada
+
+#### (Shifting into Jan 1st)
+
+7h Japan/23h Europe/17h Canada
+9h Japan/1h Europe/9h Canada
+22h Japan/ 14h Europe / 6h Canada
+04h Japan/ 20h Europe/ 14h Canada
