@@ -7,7 +7,7 @@ layout: default
 
 ![Stoned 0.1](https://github.com/gnozo/Stoned/blob/run/assets/img/stoned_1.png?raw=true)
 
-[Metaleptic](https://www.metaleptic.com) is a recursion-oriented MMO game engine and learning platform imagined by Benjamin Efrati in 2020. Hijacking the classic video game studio model, it is inspired by projects such as Processing, Garry’s Mod, Code.org, Minecraft and Manyland. Metaleptic enables the player to play and fork its original games via a gamified UI/UX, but goes further by enabling users to create projects from scratch using a web-based IDE and customizable visual tools . Designed to foster cooperative workflows, the platform connects games via different protocols such as combination, remixing and nesting. These principles aim at empowering users and fostering new gameplay patterns.
+[Metaleptic](https://metaleptic.com/) is a recursion-oriented MMO game engine and learning platform imagined by Benjamin Efrati in 2020. Hijacking the classic video game studio model, it is inspired by projects such as Processing, Garry’s Mod, Code.org, Minecraft and Manyland. Metaleptic enables the player to play and fork its original games via a gamified UI/UX, but goes further by enabling users to create projects from scratch using a web-based IDE and customizable visual tools . Designed to foster cooperative workflows, the platform connects games via different protocols such as combination, remixing and nesting. These principles aim at empowering users and fostering new gameplay patterns.
 
 ## Exhibiting artists:
 
