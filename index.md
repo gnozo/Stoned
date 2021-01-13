@@ -11,7 +11,7 @@ layout: default
 
 ## Exhibiting artists:
 
-Mario AMEHOU, Joan AYRTON, Benjamin EFRATI, GNoZo, Julie GOERGEN, Wassim HALAL, Shu ISAKA, Carin KLONOWSKI, Zsuzsana KREIF, Walter LANGELAAR, Katalin LOVRITY, Taichi MORIYAMA, Fuyumi MURATA, Nao NISHIHARA, Thomas PERINO, Aoi TAGAMI, Philipp TEISTER, Balazs TURAI, Yann VAN DER CRUYSSEN
+Mario AMEHOU, Joan AYRTON, Benjamin EFRATI, GNoZo, Julie GOERGEN, Wassim HALAL, Shu ISAKA, Carin KLONOWSKI, Zsuzsana KREIF, Katalin LOVRITY, Taichi MORIYAMA, Fuyumi MURATA, Nao NISHIHARA, Thomas PERINO, Aoi TAGAMI, Balazs TURAI, Yann VAN DER CRUYSSEN
 
 ![Stoned 0.1](https://github.com/gnozo/Stoned/blob/run/assets/img/zsuzsi-dolphinhead-downsized.gif?raw=true)
 
@@ -23,6 +23,6 @@ In drug culture, “stoned” is used in contrast to “high”: The two terms s
 Stones are often described as small rocks. Rock, on the other hand, is made of stone and other mineral materials. Stones represent individuality at all scales: an individual being, an individual thought. By assembling stones one doesn’t create mere misshapen rocks, but rather complex sets of individual objects. 
 This is the way imaginary hybrids and artworks are created. During temporary lapses of reason, the body and the mind can coexist in peace and output pure intuition. Stones are simple representations of complex thought processes.
 
-Stoned 0.1 is the first in a series of exhibitions addressing the semantic intersection of the fields of geology and philosophy of perception. The project echoes the novel concept of Psychedelic Pragmatism, which aims at regrouping various artistic endeavours dealing with the complementarity of intuition and intellect, perception and ignorance, imagination and reality. 
+**Stoned 0.1** is the first in a series of exhibitions addressing the semantic intersection of the fields of geology and philosophy of perception. The project echoes the novel concept of Psychedelic Pragmatism, which aims at regrouping various artistic endeavours dealing with the complementarity of intuition and intellect, perception and ignorance, imagination and reality. 
 
-Psychedelic Pragmatism is a field of experience rather than a dogma. It reduces all pre-established differences between the many types of mind-altering substances. By focusing on representations inspired by the practical knowledge humans have been extracting from their use of psychoactive plants, fermented beverages and synthesized compounds, Stoned 0.1 offers a special type of exhibition concept. The visitor is invited to experience the art and interactions in a comfortable mindset. Mind-altering substances can virtually always benefit the user in reflecting upon the nature of the self and of reality, provided that the context of preparation and consumption are adequate.
+**Psychedelic Pragmatism** is a field of experience rather than a dogma. It reduces all pre-established differences between the many types of mind-altering substances. By focusing on representations inspired by the practical knowledge humans have been extracting from their use of psychoactive plants, fermented beverages and synthesized compounds, Stoned 0.1 offers a special type of exhibition concept. The visitor is invited to experience the art and interactions in a comfortable mindset. Mind-altering substances can virtually always benefit the user in reflecting upon the nature of the self and of reality, provided that the context of preparation and consumption are adequate.
