@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**Stoned 0.1**  is a pop-up online exhibition curated by Metaleptic and the Miracle Collective. It will be available from December 31st 2020 to April 1st 2021 as work in progress. It freely explores the idea that digital interfaces, and video games in particular, provide a special type of experience, which can be compared to hallucinatory perception. This type of experience is not explained by the description of the overconsumption of digital content in terms of addictology. If digital culture should be associated with drug culture, the best comparison is psychedelism. Hence, **Stone(d)** takes the visitor from internet to altered states of consciousnes through an immersion in the evocative power of stones.
+**Stoned 0.1**  is a pop-up online exhibition curated by Metaleptic and the Miracle Collective. It will be available from December 31st 2020 to April 1st 2021 as work in progress. It freely explores the idea that digital interfaces, and video games in particular, provide a special type of experience, which can be compared to hallucinatory perception. This type of experience is not explained by the description of the overconsumption of digital content in terms of addictology. If digital culture should be associated with drug culture, the best comparison is psychedelism. Hence, **Stone(d)** takes the visitor on an immersive mystical cruise from the internet to altered states of consciousnes through the evocative power of stones.
 
 ![Stoned 0.1](https://github.com/gnozo/Stoned/blob/run/assets/img/stoned_1.png?raw=true)
 
