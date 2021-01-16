@@ -20,7 +20,7 @@ _Libraries Burn Slowly_ (HD, 13 minutes, 2021)
 
 [Room 2.1 :  Libraries](https://hubs.mozilla.com/wk6SaGz/stoned-0-1-room-2-1-libraries) 
 
-## [GNoZo](http://gnozo.me/) (Niue)
+## [Gnozo](http://gnozo.me/) (Niue)
 _The Gnozo Show, Episode 7 - On Weed_ (HD, 13 minutes, 2020)
 
 [Room 2.1 :  Show (Gnozo, the)](https://hubs.mozilla.com/vxTHYwU/stoned-0-1-room-3-2-show-gnozo-the) 
