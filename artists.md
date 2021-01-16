@@ -33,7 +33,8 @@ _Dur/Mou_ (5 screensavers for computers + video, HD, 2 minutes, 2020)
 ## [Wassim HALAL](https://wassimhalal.com/) (France) 
 _Ataba, Bernard Kochari_ (random pitch shifter/derbuka, 2020), Christmas Collage (digital image, 2020)
 
-[Room 2.2: Ataba]https://hubs.mozilla.com/AkUZDEQ/stoned-0-1-room-2-2-ataba) 
+[Room 2.2: Ataba](https://hubs.mozilla.com/AkUZDEQ/stoned-0-1-room-2-2-ataba) 
+
 [Room 0 :  Lobby](https://hubs.mozilla.com/vdTNP8K/stoned-0-1-room-0-lobby) 
 
 ## [Shu ISAKA](https://shuisaka.site) (Japan) 
