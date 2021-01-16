@@ -70,7 +70,7 @@ _Wonderland_ (digital installation, 2020)
 ## [Nao NISHIHARA](http://nishiharanao.blogspot.com/) & [Aoi TAGAMI](https://www.ftarri.com/) (Japan)
 _Ftari_ (live performance documentation, 2020.12.30, Tokyo)
 
-[Room 2.3 :  Ftari]https://hubs.mozilla.com/WE4BXCH/stoned-0-1-room-2-3-ftari) 
+[Room 2.3 :  Ftari](https://hubs.mozilla.com/WE4BXCH/stoned-0-1-room-2-3-ftari) 
 
 ## [Thomas PERINO](https://www.thomasperino.fr/) (France) 
 _Une collection de cailloux_ (text, FR, 2020)
