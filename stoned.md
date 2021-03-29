@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
  “Stoned” is one way of describing the effect of heavy drug use (alcohol, cannabis, etc…) . Although it overlaps with the geologic notion of rock, the term “stone” can also refer to crystals and gems. Dealing with the relations between geology and altered states of perception, Stoned is a series of exhibitions in development.
 
 In drug culture, “stoned” is used in contrast to “high”: The two terms seem to describe opposite polarities of the ways in which perception is altered. We argue here that such a distinction is superfluous, since nearly all mind-altering compounds enable human beings to reach out of the limitations of their consciousness. Mind-altering substances are not the only means of attaining radically different mental perspectives. Obviously, concentration, repetition, sensory deprivation, fasting and physical exercise are potent mind-opening processes. Yet, oftentimes mind-altering substances have been found useful in enabling individuals to break out of their daily psychological routine. From the most ancient ritual use of psychoactive compounds to the hallucinogenic function of video games from Moses’ drunkenness to the mind-numbing virtues of television and cinema, from Djalal Al Din Rûmi’s use of wine as metaphor of spiritual intoxication to archaïc meditation techniques, something rather important seems to take place when the mind is taken beyond its limits. 
