@@ -1,6 +1,8 @@
 title: Stone(d) : a hybrid project by Metaleptic and Miracle
-logo: /assets/img/ogo.png
+logo: /assets/img/logo.png
 description: Stone(d)is an IRL/URL project by Metaleptic and Miracle about the multiple mysterious corellations between stones and stonedness.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+<link rel="shortcut icon" type="image/x-icon" href="https://github.com/gnozo/Stoned/blob/run/assets/img/favicon.png">
