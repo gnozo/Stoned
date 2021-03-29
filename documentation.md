@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Archives : Stoned 0.1, Stoned 0.2
+# Archives : Stoned 
 
 ## Stoned 0.1 (2020)
 
