@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-# Archives : Stoned 0.1-0.2
+# Archives : Stoned 0.1, Stoned 0.2
+
+## Stoned 0.1 (2020)
+
+Artists: Mario AMEHOU, Joan AYRTON, Benjamin EFRATI, GNoZo, Julie GOERGEN, Wassim HALAL, Shu ISAKA, Carin KLONOWSKI, Zsuzsana KREIF, Katalin LOVRITY, Taichi MORIYAMA, Fuyumi MURATA, Nao NISHIHARA, Thomas PERINO, Aoi TAGAMI, Balazs TURAI, Yann VAN DER CRUYSSEN
 
 ![Stoned 0.1](https://github.com/gnozo/Stoned/blob/run/assets/img/stoned-logo.gif?raw=true)
 ![Stoned 0.1](https://github.com/gnozo/Stoned/blob/run/assets/img/stoned_isaka3.png?raw=true)
@@ -15,6 +19,11 @@ layout: default
 ![Stoned 0.1](https://github.com/gnozo/Stoned/blob/run/assets/img/neon.PNG?raw=true)
 ![Stoned 0.1](https://github.com/gnozo/Stoned/blob/run/assets/img/stone.PNG?raw=true)
 ![Stoned 0.1](https://github.com/gnozo/Stoned/blob/run/assets/img/logo.png?raw=true)
+
+## Stoned 0.2 : Intersections of the Universes (2021)
+
+Artists: Benjamin Efrati, Shu Isaka
+
 ![Stoned 0.2](https://github.com/gnozo/Stoned/blob/run/assets/img/intersections_1.png?raw=true)
 ![Stoned 0.2](https://github.com/gnozo/Stoned/blob/run/assets/img/intersections_2.png?raw=true)
 ![Stoned 0.2](https://github.com/gnozo/Stoned/blob/run/assets/img/intersections_3.png?raw=true)
