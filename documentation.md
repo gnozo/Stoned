@@ -10,6 +10,7 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C1WCb4-dXzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ### Artists
 
 Mario AMEHOU, Joan AYRTON, Benjamin EFRATI, GNoZo, Julie GOERGEN, Wassim HALAL, Shu ISAKA, Carin KLONOWSKI, Zsuzsana KREIF, Katalin LOVRITY, Taichi MORIYAMA, Fuyumi MURATA, Nao NISHIHARA, Thomas PERINO, Aoi TAGAMI, Balazs TURAI, Yann VAN DER CRUYSSEN
